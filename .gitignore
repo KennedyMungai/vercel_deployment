@@ -1,3 +1,13 @@
-**/__init__.py
+idea/
+.vscode/
+__pycache__/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+docs/_build/
+dist/
 venv/
-**/__pycache__/
+.vercel
+.venv
+**/__init__.py
